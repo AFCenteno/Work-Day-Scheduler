@@ -8,4 +8,4 @@ The schedule runs from 9AM to 5PM
 
 As time progresses the time alloted info box changes color based on whether the time has already passed (grey), the time in now (red), and the time is in the future (green).
 
-![Alt text](/Work Day Scheduler.png?raw=true "WDS")
+![Alt text](/WDS.png?raw=true "WDS")
